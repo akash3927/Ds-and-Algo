@@ -8,5 +8,5 @@ function simpleArraySum(ar) {
 	console.log(sum);
 }
 
-// const array = [1,2,3,4]
-simpleArraySum([1, 2, 3, 4]);
+const array = [1, 2, 3, 4];
+simpleArraySum(array);
