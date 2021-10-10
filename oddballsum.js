@@ -1,5 +1,7 @@
 /** @format */
 
+//Write a function called oddball_sum which takes in a list of numbers and returns the sum of all the odd elements
+
 function oddball_sum(nums) {
 	// final count of all odd numbers added up
 	var final_count = 0;
